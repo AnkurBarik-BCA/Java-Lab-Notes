@@ -1,0 +1,20 @@
+Assignment 1 	WAP in JAVA to make the calculator which will perform Addition, Subtraction, Multiplication and Division using Switch case. 
+
+Assignment 2 	Write a Java program that calculates the sum of all prime numbers within a specified range and determines the total number of prime numbers in that range. The program should be designed using object-oriented principles, utilizing classes , constructors and methods to handle the different components of the task such as range validation, prime number checking, and the final calculation.
+
+Assignment 3 	Create a Library Management System in Java using classes and objects involves designing several classes to represent different entities in the library, such as books, library members, and the library itself. Here's a basic but distinct implementation of a Library Management System:
+Classes to be Implemented:
+1.	Book: Represents a book with attributes like title, author, ISBN, and availability status.
+2.	Member: Represents a library member with attributes like name, member ID, and a list of borrowed books.
+3.	Library: Manages the collection of books and members, and handles the borrowing and returning of books.
+.
+
+Assignment 4 Create a class called Grader and give it an instance variable called score, a suitable constructor, and suitable methods. The letter grade is returned as O/E/A/B/C/F/ by the letterGrade() method.
+Generate a sample class now to test the Grader class by reading a user-provided score and using it to generate a Grader object once it has been confirmed that the value is between 0 and 100. To obtain and print the Grade, call the letterGrade() function at the end.
+
+Assignment 5	An educational establishment keeps a database of its staff members. The hierarchical relationships between the many classes that make up the database are displayed here. Create the database, write all the classes, and specify the methods for retrieving specific data as needed. To test the classes, write a driver program.
+Staff (code, name)                                                                      Teacher (subject, publication) is a Staff     
+Officer (grade) is a Staff                                                           
+Typist (speed) is a Staff 
+RegularTypist (remuneration)is a Typist        
+CasualTypist (daily wages)is a Typist
